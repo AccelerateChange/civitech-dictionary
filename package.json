@@ -1,0 +1,11 @@
+{
+  "name": "civitech-dictionary",
+  "version": "1.0.0",
+  "description": "A module that maps civitech voter status to a true or false and allows look up of online voter registration rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tareq Alani",
+  "license": "ISC"
+}
